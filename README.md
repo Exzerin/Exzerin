@@ -1,5 +1,5 @@
 - 👋 Welcome to my profile
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning C++/C# and Python
 - 📫 You can reach me via email; Exzerin@gmail.com
 
 <!---
